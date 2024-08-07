@@ -27,5 +27,5 @@ This project is a real-time chat application built using Node.js, Express, Socke
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Che1enger/Test-chat-.git
    cd your-repository
