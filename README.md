@@ -28,4 +28,3 @@ This project is a real-time chat application built using Node.js, Express, Socke
 
    ```bash
    git clone https://github.com/Che1enger/Test-chat-.git
-   cd your-repository
